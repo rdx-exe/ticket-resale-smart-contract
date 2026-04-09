@@ -6,6 +6,8 @@ This project is a decentralized ticket resale platform built using Soroban smart
 
 By leveraging blockchain technology, this system ensures that ticket ownership is verifiable, transfers are secure, and resale is conducted in a trustless environment without intermediaries.
 
+<img width="1920" height="1080" alt="ticket resale smart contract" src="https://github.com/user-attachments/assets/08ea78f1-db60-4db8-9aba-63c211535e67" />
+
 ---
 
 ## ⚙️ What It Does
